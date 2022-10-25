@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Introduction To C",
+        "img": "https://www.analyticsinsight.net/wp-content/uploads/2021/10/How-are-C-and-C-Programs-Becoming-Helpful-in-Data-Science.jpg",
+        "total_student": 300
+    },
+    {
+        "id": "02",
+        "name": "Programming In C++",
+        "img": "https://www.alexanderthamm.com/wp-content/uploads/c-programmiersprache-1.jpg",
+        "total_student": 400
+    },
+    {
+        "id": "03",
+        "name": "Java & It's Applications",
+        "img": "https://favbulous.com/wp-content/uploads/2016/06/java-logo.png",
+        "total_student": 500
+    },
+    {
+        "id": "04",
+        "name": "Advanced Programming With Python",
+        "img": "https://us.123rf.com/450wm/eamesbot/eamesbot1907/eamesbot190700024/126572024-python-modern-programming-language-for-software-development-or-application-concept-multi-color-arrow.jpg?ver=6",
+        "total_student": 550
+    },
+    {
+        "id": "05",
+        "name": "C# Programming Technology",
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--2rSzXjJ6--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ffiaa4zq4t1xfwqvodr4.jpeg",
+        "total_student": 600
+    },
+    {
+        "id": "06",
+        "name": "PHP & Backend Technologies",
+        "img": "https://www.katasis.com/wp-content/uploads/2022/03/5cb9e41c19832.jpg",
+        "total_student": 650
+    }
+]
